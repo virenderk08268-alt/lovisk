@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Gemi-Pal: Your AI Best Friend",
+  "description": "A safe, fun, and educational AI companion for children featuring voice conversation, storytelling, and magic drawing.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
